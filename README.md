@@ -53,5 +53,5 @@ Conclusion
 
 Author
 Arbina KC
-GitHub: https://github.com/arbinakc/credit-card-sql-analysis
+GitHub: https://github.com/arbinakc
 LinkedIn: https://www.linkedin.com/in/arbina-kc-3b7812273/
