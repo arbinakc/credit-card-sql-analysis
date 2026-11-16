@@ -2,14 +2,14 @@
 A relational SQL project tracking cardholders, credit cards, and statements.
 
 Overview
--Created a relational database using MySQL.
--Organized data into three related tables.
+-Worked with a relational database using MySQL.
+-Explored three related tables.
 -Analyzed credit limits, payments, fees, and balances.
 
 Problem Statement
 -Managing credit card records can be difficult.
 -Financial institutions need to track credit limits and late payments.
--This project uses SQL to organize and analyze credit card data.
+-This project uses SQL to analyze credit card data.
 
 Database Tables
 -cardholders: Stores customer details.
@@ -47,8 +47,8 @@ Project Outputs
 -Monthly statement details
 
 Conclusion
--Practiced SQL using a real-world financial scenario.
--Learned to manage related tables.
+-Practiced SQL using a financial dataset.
+-Improved my understanding of related tables.
 -Used SQL to analyze credit card information.
 
 Author
