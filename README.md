@@ -21,14 +21,14 @@ Tools and Technologies
 -GitHub
 
 SQL Concepts Used
-Database Creation: CREATE DATABASE, CREATE TABLE
-Filtering: WHERE, BETWEEN, LIKE
-Sorting: ORDER BY, LIMIT
-Aggregate Functions: COUNT(), AVG()
-Grouping: GROUP BY, HAVING
-Conditional Statements: CASE
-Joins: INNER JOIN, LEFT JOIN
-Subqueries: Used to perform additional data analysis.
+-Database Creation: CREATE DATABASE, CREATE TABLE
+-Filtering: WHERE, BETWEEN, LIKE
+-Sorting: ORDER BY, LIMIT
+-Aggregate Functions: COUNT(), AVG()
+-Grouping: GROUP BY, HAVING
+-Conditional Statements: CASE
+-Joins: INNER JOIN, LEFT JOIN
+-Subqueries: Used to perform additional data analysis.
 
 Key Insights
 -Identified cards with high credit limits.
